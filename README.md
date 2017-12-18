@@ -5,11 +5,11 @@ This repository consist of two files,
 
 Dependencies:
 Following python packages will be required to run this code
-1) pandas:
+1) pandas:  
   pip install panda
-2) networkx:
+2) networkx:  
   pip install networkx
-3) matplotlib:
+3) matplotlib:  
   pip install matplotlib
 
 On running run_this.py file, a test.edgelist file will be generated which is edgelist formed from the adjecency matrix.
