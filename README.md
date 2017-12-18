@@ -1,6 +1,6 @@
 # adjMatrix2Graph
 This repository consist of two files,
-1) test.csv: which is the input data (adjecency matrix)
+1) test.csv: which is the input data (adjecency matrix)  
 2)run_this.py: this file can create graphs based on the adjecency matrix provided
 
 Dependencies:
